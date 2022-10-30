@@ -1,4 +1,4 @@
-﻿namespace Sneak
+﻿namespace Snake
 {
     internal class Program
     {
